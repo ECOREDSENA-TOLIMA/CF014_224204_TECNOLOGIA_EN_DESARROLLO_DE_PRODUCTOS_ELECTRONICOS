@@ -63,21 +63,27 @@
         span #[em  Planteamiento físico para la Ley de Ohm]
     br
     .row 
-      .col-sm-12.col-lg-4
+      .col-xl-4
         figure
-          img(src="@/assets/curso/temas/Tema1/5.svg", alt="alt").img250
-      .col-sm-12.col-lg-8
-        figure
-          img(src="@/assets/curso/temas/Tema1/7.svg", alt="alt").img250
-        br  
-        figure
-          img(src="@/assets/curso/temas/Tema1/6.svg", alt="alt").img250
-        br
-        figure
-          img(src="@/assets/curso/temas/Tema1/8.svg", alt="alt").img250
-        br
-        figure
-          img(src="@/assets/curso/temas/Tema1/9.svg", alt="alt").img250
+          img(src='@/assets/curso/temas/Tema1/5.svg', alt='alt')
+      .col-xl-8 
+        p Se tiene un resistor de 1000 Ohmios, una fuente de poder de 9 Voltios, el interés se centra en  saber que valor de corriente se obtiene si se realiza la conexión de este circuito, el siguiente diagrama esquemático muestra este planteamiento:
+          figure
+            img(src='@/assets/curso/temas/Tema1/6.svg', alt='alt')
+        .row
+          .col-xl-7
+            p La incógnita aquí sería calcular “I” que corresponde a la intensidad de corriente eléctrica. Georg Simon Ohm estableció en 1827 el modelo matemático que daba respuesta a este planteamiento, es así que se puede escribir de esta manera: 
+          .col-xl-5
+            figure
+              img(src='@/assets/curso/temas/Tema1/7.svg', alt='alt').img
+              p Esto es lo mismo que decir 9 miliAmperios.
+          .row
+          .col-xl-12
+            .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
+              p De ahí que cuando se  efectua la medición en el circuito, este debe debe arrojar un valor cercano. De esta misma manera, si solo se tienen dos valores, cualesquiera que sean, se puede obtener el tercero, solo haciendo un despeje matemático.
+
+
+
 
     separador 
     #t_1_1.titulo-segundo.mt-2.color-acento-contenido

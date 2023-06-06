@@ -41,15 +41,19 @@
         span #[em  Ejemplo de consumo de energía]
     br
     .row 
-      .col-sm-12.col-lg-3
+      .col-xl-3
         figure
-          img(src="@/assets/curso/temas/Tema2/3.svg", alt="alt").img250
-      .col-sm-12.col-lg-9
-        figure
-          img(src="@/assets/curso/temas/Tema2/4.svg", alt="alt").img250
-        br  
-        figure
-          img(src="@/assets/curso/temas/Tema2/5.svg", alt="alt").img250
+          img(src='@/assets/curso/temas/Tema2/3.svg', alt='alt')
+      .col-xl-9 
+        p Un equipo de sonido tiene marcado en su etiqueta que suministra 1.500 vatios de potencia. Sin embargo, esto solo se da en intervalos de segundos y dependiendo del nivel de volumen al que lo tenga el usuario. Si el contenido reproducido en el equipo  tiene mucho contenido de frecuencias bajas, probablemente consuma más energía; es por eso que para hacer cálculos de consumo se utiliza la potencia media consumida.
+        .row
+          .col-xl-5
+            .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
+              p La #[strong Potencia PMPO] (Peak Music Power Output) o máximo pico de potencia de salida no es un valor real, son picos instantáneos que se dan en ciertos intervalos de audio.
+          .col-xl-7
+            .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
+              p Por su parte la #[strong Potencia RMS] (Root Main Square / Raíz cuadrada media)  es el  valor eficaz, resulta de sacar un promedio cuadrático de todos los valores picos generados; lo que es diferente de un promedio normal, ya que este posee tantos valores positivos como negativos, dando como resultado un valor de 0, en cambio el cuadrático convierte todos los valores negativos  en positivos.
+
     
     Separador
     #t_2_1.titulo-segundo.mt-2.color-acento-contenido
@@ -90,8 +94,7 @@
       .col-sm-12.col-lg-7.offset-1
         figure
           img(src='@/assets/curso/temas/Tema2/9.svg', alt='')
-        br
-        p Nota. Comparación de dos cargadores de un equipo electrónico. Tomado de CH (2015).
+          figcaption Nota. Comparación de dos cargadores de un equipo electrónico. Tomado de CH (2015).
 
     Separador
     #t_2_2.titulo-segundo.mt-2.color-acento-contenido
@@ -143,7 +146,7 @@
       .col-sm-12.col-lg-6.offset-1
         figure
           img(src='@/assets/curso/temas/Tema2/11.svg', alt='')
-          p.mt-4 Nota. Tomado de Murene (s.f.).
+          figcaption Nota. Tomado de Murene (s.f.).
     
     p.mt-5(data-aos="fade-up") En los computadores portátiles, teléfonos inteligentes, una inspección a los atributos físicos del equipo es suficiente para determinar su naturaleza. El mayor cuidado se debe tener cuando se está adquiriendo un producto costoso, pues se supone que si es costoso es porque es original y se puede estar siendo víctima de una estafa; algunos proveedores dejan claro que los productos que ofrecen son imitaciones, por lo que es decisión del cliente aceptar o no el producto.
     p.mt-5(data-aos="fade-up") El desarrollo de un producto requiere tener en cuenta los mismos atributos de calidad y tolerancia, sin embargo, para su aplicación en la fabricación en serie, el factor determinante es la inversión. Es importante tener en cuenta que la fabricación de un producto de alta calidad implica un mayor costo, por lo que, al momento de ponerlo en venta, su precio será mayor para poder recuperar la inversión realizada.
