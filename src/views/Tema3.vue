@@ -35,29 +35,23 @@
       .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-3
         h5 Figura 14
         span #[em  Placa fabricada con todos los estándares]
-
-    br
     .row 
       .col-sm-12.col-lg-12
         figure
           img(src="@/assets/curso/temas/Tema3/2.svg", alt="alt").img250
           figcaption Nota. Tomado de Alicdn.com (s.f.).
-
     br
-    .row
-      .col-sm-12.col-lg-8.offset-lg-2.mb-4.mb-md-0
-        .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
-          .row
-            p.mb-0 #[strong Árbol de normas IPC]
-            p.mb-0 Existen normas para cada paso en el proceso de fabricación, tal como se aprecia en la imagen
-    
-    br
-    .row 
-      .col-sm-12.col-lg-12
-        figure
-          img(src="@/assets/curso/temas/Tema3/3.svg", alt="alt").img250
-          figcaption Nota. Tomado de Alicdn.com (s.f.).
-
+    .col-sm-12.mb-3.col-lg-8.offset-lg-2.mt-3
+      .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
+        .col
+          .row.justify-content-between.align-items-center
+            .col.sm-12.col-lg-6.offset-lg-1
+              h4 Árbol de normas IPC
+              p.mt-3(data-aos="fade-left") Existen normas para cada paso en el proceso de fabricación, tal como se aprecia en la imagen.
+            .col-sm-auto
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/IPC.pdf')" target="_blank" type="application/pdf")
+                span imagen
+                i.fas.fa-file-image
     separador
     #t_3_1.titulo-segundo.mt-2.color-acento-contenido
       h2 3.1 Normas de calidad

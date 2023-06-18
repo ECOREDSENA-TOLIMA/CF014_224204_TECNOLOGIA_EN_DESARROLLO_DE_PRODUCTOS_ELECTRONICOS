@@ -336,10 +336,10 @@
     separador 
     #t_1_3.titulo-segundo.mt-2.color-acento-contenido
       h2 1.3 Interpretar mediciones de magnitudes eléctricas
-    p.mt-5(data-aos="fade-up") Como se ha afirmado, no es suficiente con medir, esto solo hace parte del proceso. Es posible que una persona aprenda a medir muy bien, es decir, sabe hacer buen uso del instrumento, aplicando las normas y procedimientos técnicos, pero es posible que no sepa analizar esos datos. 
-    p.mt-5(data-aos="fade-up") Un ejemplo típico de esto queda mejor documentado con el siguiente caso.
+    p.mt-3(data-aos="fade-up") Como se ha afirmado, no es suficiente con medir, esto solo hace parte del proceso. Es posible que una persona aprenda a medir muy bien, es decir, sabe hacer buen uso del instrumento, aplicando las normas y procedimientos técnicos, pero es posible que no sepa analizar esos datos. 
+    p.mt-3(data-aos="fade-up") Un ejemplo típico de esto queda mejor documentado con el siguiente caso.
     
-    .tarjeta.tarjeta--azul.p-4
+    .cajon.color-primario
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center
             .col-md-6(style="padding-left:70px")
