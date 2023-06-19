@@ -139,12 +139,12 @@
     p.mt-3(data-aos="fade-up") Es quizás en el proceso de fabricación del producto donde se aplican la mayor cantidad de normas y es precisamente donde más cuidado se debe tener, bien sea porque se trate de un proceso desarrollado en serie o por la fabricación de un producto único. En cualquiera de los casos será necesario tener en cuenta la normatividad vigente. 
     p.mt-3(data-aos="fade-up") Ahora bien, si se trata de un proceso de producción en serie, es necesario aplicar la siguiente normatividad:
 
-    TabsA.color-acento-botones
-      .tarjeta.color-acento-botones--borde.p-4(titulo="OHSAS 18001 / ISO 45001")
+    TabsA.color-primario
+      .tarjeta.color-primario--borde.p-4(titulo="OHSAS 18001 / ISO 45001")
         h4 OHSAS 18001 / ISO 45001
         p Aquí se implementa el sistema de gestión de la seguridad y salud en el trabajo, esta aplicación es necesaria para garantizar la salud de los trabajadores y por consiguiente la mejora de la productividad. 
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="ISO 27001")
+      .tarjeta.color-primario--borde.p-4(titulo="ISO 27001")
         h4 ISO 27001
         .row
           p Esta norma establece los  sistemas de gestión de la seguridad de la información. Busca en gran medida proteger los derechos de autor.  testing conversions from HTML format to other formats, since some elements can go wrong then.
@@ -154,15 +154,15 @@
             figure
               img(src='@/assets/curso/temas/Tema3/10.svg', alt='alt')
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="IPC D-325")
+      .tarjeta.color-primario--borde.p-4(titulo="IPC D-325")
         h4 IPC D-325
         p Requisitos para documentar los requerimientos de la PCB, ensamblajes y esquemas electrónicos. Es posible que después de realizar algunas pruebas se deba documentar todo el proceso y entregar los resultados de los cálculos y mediciones. Esta norma establece los procedimientos para documentar estos procesos.
               
-      .tarjeta.color-acento-botones--borde.p-4(titulo="IPC-7351B")
+      .tarjeta.color-primario--borde.p-4(titulo="IPC-7351B")
         h4 IPC-7351B
         p Requisitos genéricos para el diseño SMD y estándar para el diseño de las pistas de soldadura. Esta norma es muy importante ya que establece las reglas de diseño para los conductores en la placa, además en su versión digital incluye una calculadora que facilita la creación de las pistas, indicando grosor, tamaño y otros parámetros
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="IPC-2252")
+      .tarjeta.color-primario--borde.p-4(titulo="IPC-2252")
         h4 IPC-2252
         .row
         p Guía para el diseño de PCB  utilizada en radiofrecuencia y microondas. Cuando el equipo electrónico incluye radiofrecuencia es necesario un tratamiento especial. Esta norma establece las reglas para garantizar un funcionamiento confiable en este tipo de dispositivos.
@@ -175,7 +175,7 @@
         p Placa para uso con radiofrecuencia
 
 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="IPC-2255")
+      .tarjeta.color-primario--borde.p-4(titulo="IPC-2255")
         h4 IPC-2255
         .row
         p Guía de diseño para el empaquetado de circuitos electrónicos de alta velocidad. Los circuitos de alta velocidad también están relacionados con la frecuencia, pero en este caso está referida al funcionamiento interno de un chip, es así como un procesador o una memoria están dentro de esta categoría, por lo tanto, el empaquetado o carcaza del componente debe cumplir con unos estándares, para evitar la pérdida de datos por mal montaje y por consiguiente, mal funcionamiento del producto donde se utilice.

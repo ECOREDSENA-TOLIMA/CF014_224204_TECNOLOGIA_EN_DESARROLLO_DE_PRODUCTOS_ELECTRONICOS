@@ -168,28 +168,23 @@ export default {
       referencia:
         'Sígueme la corriente. (2020). Las leyes de Kirchhoff explicadas.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/embed/Vpgug3QBitk',
+      link: 'https://www.youtube.com/embed/Vpgug3QBitk',
     },
     {
       tema: 'Simulación de circuitos',
       referencia: 'Autodesk, INC. (2021). Tinkercad, Diseño 3D.',
       tipo: 'Página web',
-      descarga: 'https://www.tinkercad.com/',
+      link: 'https://www.tinkercad.com/',
     },
     {
       tema: 'Hojas de datos técnicos',
       referencia:
         'Alldatasheet. (2021). Electronic components datasheet search.',
       tipo: 'Página web de consulta',
-      descarga: 'https://alldatasheet.com',
+      link: 'https://alldatasheet.com',
     },
   ],
   glosario: [
-    {
-      termino: 'Axioma',
-      significado:
-        'Proposición tan clara y evidente que se admite sin demostración (Real Academia Española, 2021).',
-    },
     {
       termino: 'Chips',
       significado:
@@ -264,7 +259,7 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Responsable de línea de producción',
           centro: 'Nombre centro de formación',
         },
@@ -274,9 +269,51 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Gewin Alfonso Fernández Cáceres',
+          cargo: 'Experto Temático',
+          centro: '"Regional Atlántico Centro Nacional Colombo Alemán."',
+        },
+        {
+          nombre: 'Miroslava González Hernández',
+          cargo: 'Diseñadora y Evaluadora Instruccional',
+          centro: 'Regional Distrito Capital Centro de Gestión Industrial.',
+        },
+        {
+          nombre: 'Juan Gilberto Giraldo Cortés',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Revisora Metodológica y Pedagógica',
+          centro:
+            'Regional Distrito Capital Centro para la Industria de la Comunicación Gráfica.',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo Desarrollo Curricular',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura.',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Corrector de Estilo',
+          centro: 'Regional Distrito Capital',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrector de Estilo',
+          centro: 'Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez',
+          cargo: 'Diseñador y Evaluador Instruccional',
+          centro: 'Regional Distrito Capital Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Qiñonez',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Distrito Capital Centro de Diseño y Metrología.',
         },
       ],
     },
@@ -284,19 +321,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          nombre: 'José Jaime Luis Tang Pinzón',
+          cargo: 'Diseñador Web',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Sebastian Trujillo Afanador',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Storyboard e Ilustración',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Producción audiovisual',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador ',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Cristian Mauricio Otálora Clavijo',
+          cargo: 'Actividad Didáctica',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -304,14 +356,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
