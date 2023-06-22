@@ -40,18 +40,41 @@
         figure
           img(src="@/assets/curso/temas/Tema3/2.svg", alt="alt").img250
           figcaption Nota. Tomado de Alicdn.com (s.f.).
-    br
-    .col-sm-12.mb-3.col-lg-8.offset-lg-2.mt-3
-      .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
-        .col
-          .row.justify-content-between.align-items-center
-            .col.sm-12.col-lg-6.offset-lg-1
-              h4 Árbol de normas IPC
-              p.mt-3(data-aos="fade-left") Existen normas para cada paso en el proceso de fabricación, tal como se aprecia en la imagen.
-            .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/IPC.pdf')" target="_blank" type="application/pdf")
-                span imagen
-                i.fas.fa-file-image
+    
+    .row.justify-content-center(data-aos="fade-left")
+      .col-lg-8.pt-3  
+          .tarjeta.bg.color-primario.p-3.mb-4
+            .row.justify-content-around.align-items-center
+              .col-md-1.px-4.mb-3
+                //img.px-md-1(src="@/assets/curso/tema2/9.svg")
+              .col.ps-md-0
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    h2 Árbol de normas IPC
+                    p Existen normas para cada paso en el proceso de fabricación, tal como se aprecia en la imagen 
+                  .col-3.mb-3.mb-sm-0
+                      a.boton.color-acento-botones.lnk(@click="modal1 = true")
+                        span imagen
+                        i.fas.fa-image
+                        .indicador--click(v-if="mostrarIndicador")
+          ModalA(:abrir-modal.sync="modal1")                
+            .col-lg-12.p-0.m-0
+              figure                    
+                img.px-md-0(src="@/assets/curso/temas/Tema3/13.svg" alt="alt")
+    
+    
+    //- br
+    //- .col-sm-12.mb-3.col-lg-8.offset-lg-2.mt-3
+    //-   .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
+    //-     .col
+    //-       .row.justify-content-between.align-items-center
+    //-         .col.sm-12.col-lg-6.offset-lg-1
+    //-           h4 Árbol de normas IPC
+    //-           p.mt-3(data-aos="fade-left") Existen normas para cada paso en el proceso de fabricación, tal como se aprecia en la imagen.
+    //-         .col-sm-auto
+    //-           a.boton.color-acento-botones(:href="obtenerLink('/downloads/IPC.pdf')" target="_blank" type="application/pdf")
+    //-             span imagen
+    //-             i.fas.fa-file-image
     separador
     #t_3_1.titulo-segundo.mt-2.color-acento-contenido
       h2 3.1 Normas de calidad
@@ -195,6 +218,8 @@ export default {
   name: 'Tema3',
   data: () => ({
     // variables de vue
+    mostrarIndicador: true,
+    modal1: false,
   }),
   mounted() {
     this.$nextTick(() => {
