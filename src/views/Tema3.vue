@@ -12,7 +12,7 @@
 
     .row
       .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-3
-        h5 Figura 13
+        h5 Figura 14
         span #[em  Entes reguladores]
 
     br
@@ -33,16 +33,17 @@
     
     .row
       .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-3
-        h5 Figura 14
+        h5 Figura 15
         span #[em  Placa fabricada con todos los estándares]
-    .row 
-      .col-sm-12.col-lg-12
+
+    .row.justify-content-center.align-items-center  
+      .col-lg-8
         figure
           img(src="@/assets/curso/temas/Tema3/2.svg", alt="alt").img250
           figcaption Nota. Tomado de Alicdn.com (s.f.).
     
     .row.justify-content-center(data-aos="fade-left")
-      .col-lg-8.pt-3  
+      .col-lg-8.mt-3  
           .tarjeta.bg.color-primario.p-3.mb-4
             .row.justify-content-around.align-items-center
               .col-md-1.px-4.mb-3
@@ -62,19 +63,6 @@
               figure                    
                 img.px-md-0(src="@/assets/curso/temas/Tema3/13.svg" alt="alt")
     
-    
-    //- br
-    //- .col-sm-12.mb-3.col-lg-8.offset-lg-2.mt-3
-    //-   .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
-    //-     .col
-    //-       .row.justify-content-between.align-items-center
-    //-         .col.sm-12.col-lg-6.offset-lg-1
-    //-           h4 Árbol de normas IPC
-    //-           p.mt-3(data-aos="fade-left") Existen normas para cada paso en el proceso de fabricación, tal como se aprecia en la imagen.
-    //-         .col-sm-auto
-    //-           a.boton.color-acento-botones(:href="obtenerLink('/downloads/IPC.pdf')" target="_blank" type="application/pdf")
-    //-             span imagen
-    //-             i.fas.fa-file-image
     separador
     #t_3_1.titulo-segundo.mt-2.color-acento-contenido
       h2 3.1 Normas de calidad
@@ -117,23 +105,24 @@
 
     .tarjeta.tarjeta--gris.p-4
       LineaTiempoC.color-acento-contenido(text-small)
-        .row(titulo="IPC-7711/21")
+        .row.justify-content-center.align-items-center(titulo="IPC-7711/21")
           .col-md-7.mb-4.mb-md-0
-            p.mt-5(data-aos="fade-up") Este estándar proporciona múltiples técnicas aprobadas por la industria, relacionadas con el proceso de perforado y montaje superficial, así como la preparación de superficies, conductores y laminados. Es probable que deban efectuarse algunas mediciones para determinar el estado de conectividad de algunos componentes, si no existen pistas aisladas, soldadura mal puesta, etc.
+            p.mt-3(data-aos="fade-up") Este estándar proporciona múltiples técnicas aprobadas por la industria, relacionadas con el proceso de perforado y montaje superficial, así como la preparación de superficies, conductores y laminados. Es probable que deban efectuarse algunas mediciones para determinar el estado de conectividad de algunos componentes, si no existen pistas aisladas, soldadura mal puesta, etc.
             p.mt-3(data-aos="fade-up") Al aplicar un proceso de medición puede resultar en baja conductividad o circuitos completamente aislados.
-          
           .col-md-5
             figure
               img(src='@/assets/curso/temas/Tema3/7.svg', alt='alt')
-        
-        .row(titulo="IPC 2221")
+
+          
+          
+        .row.justify-content-center.align-items-center(titulo="IPC 2221")
           .col-md-7.mb-4.mb-md-0
             p.mt-5(data-aos="fade-up") Esta norma define los requerimientos para el diseño de PCB. Está dentro de las normas más  usadas, define los requerimientos para el diseño de PCB, estableciendo unas reglas de diseño y recomendaciones que incluyen el ensamble de los componentes, tipo THT (Through-Hole Technology) huecos pasantes,  SMT (Surface-Mount technology) montaje.
                       
           .col-md-5
             figure
               img(src='@/assets/curso/temas/Tema3/8.svg', alt='alt')
-        .row(titulo="IPC-T-50M")
+        .row.justify-content-center.align-items-center(titulo="IPC-T-50M")
           .col-md-7.mb-4.mb-md-0
             p.mt-5(data-aos="fade-up") Términos y definiciones para la interconexión y encapsulados de circuitos electrónicos.
             p.mt-3(data-aos="fade-up") Este tema es importante debido a que necesariamente deben mantenerse los estándares para el montaje de circuitos impresos, las medidas de estos son precisas y milimétricas y, el diseño de la PCB y las pistas de interconexión deben estar sujetas a los parámetros de estos chips. 
@@ -170,7 +159,7 @@
       .tarjeta.color-primario--borde.p-4(titulo="ISO 27001")
         h4 ISO 27001
         .row
-          p Esta norma establece los  sistemas de gestión de la seguridad de la información. Busca en gran medida proteger los derechos de autor.  testing conversions from HTML format to other formats, since some elements can go wrong then.
+          p Esta norma establece los  sistemas de gestión de la seguridad de la información. Busca en gran medida proteger los derechos de autor.  #[em testing conversions from HTML format to other formats, since some elements can go wrong then].
           p Muchos productos electrónicos son susceptibles de copias indebidas, es decir, que puede tratarse de un invento novedoso y por lo tanto, es necesario aplicar todos los criterios para garantizar los derechos de autoría de su creador. Muchos de los artefactos que se usan diariamente en el hogar poseen derechos de autor y parte del dinero de  la compra será destinado a su creador.
 
           .col-xl-12.mb-4

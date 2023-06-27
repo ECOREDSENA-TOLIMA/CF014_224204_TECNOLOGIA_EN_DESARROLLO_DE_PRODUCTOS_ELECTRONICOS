@@ -7,8 +7,8 @@
         span 1
       h1 Cálculo de magnitudes eléctricas 
 
-    p.mt-5(data-aos="fade-up") Una magnitud eléctrica se refiere a aquellos procesos físicos asociados al movimiento de electrones y que pueden ser medidos. Dentro de ellas se encuentra la diferencia de potencial, la intensidad de corriente, la resistencia, la capacitancia, la inductancia y la frecuencia eléctrica.
-    p.mt-5(data-aos="fade-up") La siguiente figura muestra cada una de ellas, así como las unidades empleadas para medirlas y los instrumentos más comunes.  
+    p.mt-3(data-aos="fade-left") Una magnitud eléctrica se refiere a aquellos procesos físicos asociados al movimiento de electrones y que pueden ser medidos. Dentro de ellas se encuentra la diferencia de potencial, la intensidad de corriente, la resistencia, la capacitancia, la inductancia y la frecuencia eléctrica.
+    p.mt-3.mb-3(data-aos="fade-left") La siguiente figura muestra cada una de ellas, así como las unidades empleadas para medirlas y los instrumentos más comunes.  
     
     .row
       .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-3
@@ -20,8 +20,8 @@
         figure
           img(src='@/assets/curso/temas/Tema1/1.png', alt='')    
     
-    p.mt-5(data-aos="fade-up") El cálculo de estas magnitudes normalmente requiere de la aplicación de principios, leyes y teoremas.
-    p.mt-5(data-aos="fade-up") En algunos casos deben estar involucradas más de una vez para poder medirlas y calcularlas; este es el caso de la intensidad de corriente eléctrica, que para poder obtener un valor medido debe estar conectada una diferencia de potencial a una resistencia eléctrica. Lo mismo pasa con la frecuencia eléctrica, que es el cambio en el tiempo del valor de una tensión o corriente eléctrica.
+    p.mt-3(data-aos="fade-left") El cálculo de estas magnitudes normalmente requiere de la aplicación de principios, leyes y teoremas.
+    p.mt-3.mb-3(data-aos="fade-left") En algunos casos deben estar involucradas más de una vez para poder medirlas y calcularlas; este es el caso de la intensidad de corriente eléctrica, que para poder obtener un valor medido debe estar conectada una diferencia de potencial a una resistencia eléctrica. Lo mismo pasa con la frecuencia eléctrica, que es el cambio en el tiempo del valor de una tensión o corriente eléctrica.
 
     my-3
     .col-sm-12.col-lg-10.offset-lg-1.mb-4.mb-md-0
@@ -32,8 +32,8 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 Es importante tener en cuenta los instrumentos de medición utilizados en cada caso, algunos instrumentos pueden sufrir averías si no se utilizan de forma adecuada, por ejemplo, si se tiene un multímetro, seleccionado como ohmímetro y por accidente medimos tensión, es probable que el instrumento sufra algún daño, esa es una desventaja de incluir múltiples instrumentos (multímetro) en un solo equipo.
         
-    p.mt-5(data-aos="fade-up") Ahora bien, para proceder al cálculo de magnitudes eléctricas es importante contar con bases matemáticas. Se necesitan conocimientos relacionados con el despeje de variables, operaciones matemáticas con fracciones, factorización, ecuaciones de hasta tres incógnitas y números complejos. Aunque en esta parte solo se aplican estos procedimientos matemáticos para obtener unos resultados, lo más importante es saber interpretarlos. Existen aplicaciones o sitios web que se pueden usar para realizar estos cálculos de forma inmediata.
-    p.mt-5(data-aos="fade-up") En este punto y antes de continuar, se debe reflexionar sobre estos procesos, ver figura.
+    p.mt-3(data-aos="fade-left") Ahora bien, para proceder al cálculo de magnitudes eléctricas es importante contar con bases matemáticas. Se necesitan conocimientos relacionados con el despeje de variables, operaciones matemáticas con fracciones, factorización, ecuaciones de hasta tres incógnitas y números complejos. Aunque en esta parte solo se aplican estos procedimientos matemáticos para obtener unos resultados, lo más importante es saber interpretarlos. Existen aplicaciones o sitios web que se pueden usar para realizar estos cálculos de forma inmediata.
+    p.mt-3(data-aos="fade-left") En este punto y antes de continuar, se debe reflexionar sobre estos procesos, ver figura.
     .row
       .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-3
         h5 Figura 2 
@@ -53,8 +53,8 @@
                 img(src="@/assets/curso/temas/Tema1/4.svg", alt="alt").img250
         
             .col-sm-12.col-lg-10
-              p.px-3.pt-1.pb-3(data-aos="fade-up") La respuesta a estos interrogantes puede ser simple. Depende de las condiciones y de lo que se esté buscando, algunas veces será necesario aplicar las dos (medir y calcular), pero lo que sí se debe tener en cuenta, es que el proceso de medición es muy importante y se debe tener claridad sobre él. Se puede efectuar un cálculo y saber lo que se espera al medir; al hacerlo se está corroborando el procedimiento matemático asociado al fenómeno físico.
-              p.px-3.pt-1.pb-3(data-aos="fade-up") También, se puede medir sin efectuar el cálculo y obtendremos un valor directo del fenómeno físico, pero esto podría generar una incertidumbre al no tener certeza de esos resultados obtenidos.
+              p.px-3.pt-1.pb-3.mb-3(data-aos="fade-up") La respuesta a estos interrogantes puede ser simple. Depende de las condiciones y de lo que se esté buscando, algunas veces será necesario aplicar las dos (medir y calcular), pero lo que sí se debe tener en cuenta, es que el proceso de medición es muy importante y se debe tener claridad sobre él. Se puede efectuar un cálculo y saber lo que se espera al medir; al hacerlo se está corroborando el procedimiento matemático asociado al fenómeno físico.
+              p.px-3.pt-1.pb-3.mb-3(data-aos="fade-up") También, se puede medir sin efectuar el cálculo y obtendremos un valor directo del fenómeno físico, pero esto podría generar una incertidumbre al no tener certeza de esos resultados obtenidos.
     
     p.mt-5(data-aos="fade-up") De acuerdo con la explicación anterior, se presenta el siguiente ejemplo de cálculo para la Ley de Ohm, ver figura.           
     .row
@@ -82,21 +82,64 @@
             .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
               p De ahí que cuando se  efectua la medición en el circuito, este debe debe arrojar un valor cercano. De esta misma manera, si solo se tienen dos valores, cualesquiera que sean, se puede obtener el tercero, solo haciendo un despeje matemático.
 
-
-
-
     separador 
     #t_1_1.titulo-segundo.mt-2.color-acento-contenido
       h2 1.1 Métodos de medición
+
+    p.mt-3.mb-3(data-aos="fade-left") Existen dos métodos de medición definidos: directa e indirecto.
+
+    .row.justify-content-center.align-items-center
+      .col.sm-12.col-sm-8
+        .row.justify-content-center.align-items-center
+          .col.sm-3
+            figure
+              img(src="@/assets/curso/temas/Tema1/40.svg", alt="alt")
+          .col.sm-6
+            p.text-small En la medición directa, se utilizan instrumentos que ayudan a tomar las medidas necesarias de manera inmediata tales como: 
+            ul.lista-ul--color.text-small
+              li 
+                i.fas.fa-check
+                | Balanzas para medir masas
+            ul.lista-ul--color.text-small
+              li 
+                i.fas.fa-check
+                | Cintas métricas para medir distancias  
+            ul.lista-ul--color.text-small
+              li 
+                i.fas.fa-check
+                | Termómetros para medir temperaturas
+            ul.lista-ul--color.text-small
+              li 
+                i.fas.fa-check
+                | Voltímetros para medir corriente 
+            p.mb-3.text-small La exactitud del cálculo dependerá de la calibración del instrumento, por eso en muchas ocasiones se toma una misma medida varias veces y se tabula para estar más cerca al valor real y así reducir el error o la incertidumbre.
+        .row.justify-content-center.align-items-center
+          .col.sm-6
+            p.text-small Mientras que la medición indirecta se realiza por medio de relaciones entre variables que permiten crear una ecuación que representa lo que se desea medir tales como:
+            ul.lista-ul--color.text-small
+              li 
+                i.fas.fa-check
+                | Velocidad que es igual a espacio sobre tiempo
+            ul.lista-ul--color.text-small
+              li 
+                i.fas.fa-check
+                | Densidad que es igual a masa sobre volumen
+            p.mb-3.text-small Quiere decir que en esta medición intervienen varias constantes para obtener el valor deseado. 
+          .col.sm-3
+            figure
+              img(src="@/assets/curso/temas/Tema1/41.svg", alt="alt")
+            
+            
+
+      
     
-    p.mt-5(data-aos="fade-up") Existen dos métodos de medición definidos: directa e indirecto; en el siguiente video se presenta un ejemplo explicativo de cada uno de ellos. 
-    br
-    figure
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/yEs4o8Gr0Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    br
-    p.mt-5(data-aos="fade-up") Nótese que en los dos métodos definidos hay algo en común, “comparar”, precisamente porque eso es lo que se hace cuando se mide, se compara. Entonces, lo que hace un ente internacional es establecer una unidad y definir un patrón que sirve de guía para compararlos con él. 
-    p.mt-5(data-aos="fade-up") Estos patrones se definen utilizando la mayor tecnología posible y los valores se obtienen de procesos donde no dependen de la intervención humana, lo que minimiza el error. 
+    //- p.mt-3.mb-3(data-aos="fade-up") Existen dos métodos de medición definidos: directa e indirecto; en el siguiente video se presenta un ejemplo explicativo de cada uno de ellos. 
+    //- figure
+    //-   .video
+    //-     iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+    p.mt-3(data-aos="fade-up") Nótese que en los dos métodos definidos hay algo en común, “comparar”, precisamente porque eso es lo que se hace cuando se mide, se compara. Entonces, lo que hace un ente internacional es establecer una unidad y definir un patrón que sirve de guía para compararlos con él. 
+    p.mt-3(data-aos="fade-up") Estos patrones se definen utilizando la mayor tecnología posible y los valores se obtienen de procesos donde no dependen de la intervención humana, lo que minimiza el error. 
 
     my-3
     .col-sm-12.col-lg-10.offset-lg-1.mb-4.mb-md-0
@@ -105,12 +148,12 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/Tema1/10.svg')})`}")
         .bloque-texto-g__texto.p-4
           p.mb-0 Por ejemplo, el primer patrón para la masa, cuya unidad en el sistema internacional es el gramo, fue el agua destilada a una temperatura de 4° centígrados, medido al nivel del mar. Este patrón no es preciso porque se necesita determinar la temperatura del agua y ahí hay una intervención humana. Por ello, este patrón ha sufrido varias modificaciones.
-    p.mt-5(data-aos="fade-up") Afortunadamente para las magnitudes eléctricas, todas las unidades están bien definidas y también los instrumentos de medición, por lo que todas las mediciones efectuadas son de manera directa, aquí solo se deben calcular e interpretar.
+    p.mt-3.mb-3(data-aos="fade-up") Afortunadamente para las magnitudes eléctricas, todas las unidades están bien definidas y también los instrumentos de medición, por lo que todas las mediciones efectuadas son de manera directa, aquí solo se deben calcular e interpretar.
     
     separador 
     #t_1_2.titulo-segundo.mt-2.color-acento-contenido
       h2 1.2 Simulación de medidas
-    p.mt-5(data-aos="fade-up") La simulación ayuda mucho en el proceso de cálculo de magnitudes eléctricas, de ahí su gran uso y existencia de aplicaciones de computador creadas para este fin. La simulación de medidas es un tipo de medición indirecta porque no involucra el fenómeno físico de manera real.
+    p.mt-3.mb-3(data-aos="fade-up") La simulación ayuda mucho en el proceso de cálculo de magnitudes eléctricas, de ahí su gran uso y existencia de aplicaciones de computador creadas para este fin. La simulación de medidas es un tipo de medición indirecta porque no involucra el fenómeno físico de manera real.
     
     my-3
     .col-sm-12.col-lg-10.offset-lg-1.mb-4.mb-md-0
@@ -118,42 +161,42 @@
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/Tema1/11.svg')})`}")
         .bloque-texto-g__texto.p-4
-          p.mb-0 Tinkercad es un software en línea, desarrollado por AutoCAD, de uso libre, que sirve para simular las principales magnitudes eléctricas. También existen aplicaciones pagadas que proporcionan datos muy cercanos a la realidad. 
-    p.mt-5(data-aos="fade-up") Estos softwares permiten tener una aproximación muy buena de lo que será el comportamiento de las variables involucradas una vez se haga el montaje real. Haciendo la simulación de la Ley de Ohm, quedaría el siguiente montaje, ver figura.
-    br
+          p.mb-0 #[em Tinkercad] es un #[em Software] en línea, desarrollado por AutoCAD, de uso libre, que sirve para simular las principales magnitudes eléctricas. También existen aplicaciones pagadas que proporcionan datos muy cercanos a la realidad. 
+    p.mt-3.mb-3(data-aos="fade-left") Estos softwares permiten tener una aproximación muy buena de lo que será el comportamiento de las variables involucradas una vez se haga el montaje real. Haciendo la simulación de la Ley de Ohm, quedaría el siguiente montaje, ver figura.
+    
     .row
       .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-3
         h5 Figura 4 
         span #[em  Simulando Ley de Ohm]
-    .row   
-      .col-sm-12.col-lg-12
+    .row.justify-content-center.align-items-center   
+      .col-6.mb-3
         figure
           img(src='@/assets/curso/temas/Tema1/12.svg', alt='')
-    br
-    p.mt-5(data-aos="fade-up") Si se analiza, el cálculo arrojó un valor de 9 mA y el valor medido en la simulación es de 8.99 mA, muy cercano al valor calculado, al hacer la medición real también debe dar un valor aproximado, esto ayuda mucho a la hora de hacer cálculos de estas magnitudes.
-    p.mt-5(data-aos="fade-up") La simulación permite algo que muchas veces es difícil en la realidad y es el uso de varios instrumentos de medición al mismo tiempo, casi siempre se cuenta con uno o dos multímetros. En la simulación este número es elevado.
-    p.mt-5(data-aos="fade-up") Por ejemplo, si se requiere hacer al análisis para un circuito con varias fuentes de poder y varias resistencias en un montaje real, tocaría medir cada elemento por separado, en una simulación se podría utilizar un instrumento para cada elemento y ver todos los valores al mismo tiempo.
-    p.mt-5(data-aos="fade-up") Analizando el circuito que aparece en la siguiente figura:
+    
+    p.mt-3(data-aos="fade-left") Si se analiza, el cálculo arrojó un valor de 9 mA y el valor medido en la simulación es de 8.99 mA, muy cercano al valor calculado, al hacer la medición real también debe dar un valor aproximado, esto ayuda mucho a la hora de hacer cálculos de estas magnitudes.
+    p.mt-3(data-aos="fade-left") La simulación permite algo que muchas veces es difícil en la realidad y es el uso de varios instrumentos de medición al mismo tiempo, casi siempre se cuenta con uno o dos multímetros. En la simulación este número es elevado.
+    p.mt-3(data-aos="fade-left") Por ejemplo, si se requiere hacer al análisis para un circuito con varias fuentes de poder y varias resistencias en un montaje real, tocaría medir cada elemento por separado, en una simulación se podría utilizar un instrumento para cada elemento y ver todos los valores al mismo tiempo.
+    p.mt-3(data-aos="fade-left") Analizando el circuito que aparece en la siguiente figura:
     br
     .row
       .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-3
         h5 Figura 5 
         span #[em  Simulando Ley de Ohm]
-    br
+    
     .row   
       .col-sm-12.col-lg-12
         figure
           img(src='@/assets/curso/temas/Tema1/13.svg', alt='')
 
-    p.mt-5(data-aos="fade-up") Aquí la Ley de Ohm por sí sola no sería suficiente; basado en esta Gustav Robert Kirchhoff (1846) estableció unas leyes que permiten el análisis de estos circuitos más complejos, la Ley de los nodos.
+    p.mt-3.mb-3(data-aos="fade-up") Aquí la Ley de Ohm por sí sola no sería suficiente; basado en esta Gustav Robert Kirchhoff (1846) estableció unas leyes que permiten el análisis de estos circuitos más complejos, la Ley de los nodos.
     br
     .row
-      .col-sm-12.col-lg-10.offset-lg-1.mb-4.mb-md-0
+      .col-sm-12.col-lg-10.offset-lg-1.mb-4.mb-3-md-0
         .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
           .row
               p.px-3.pt-1.pb-3(data-aos="fade-up") Ley de los nodos: “en cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a la suma de las corrientes que salen. De forma equivalente, la suma algebraica de todas las corrientes que pasan por el nodo es igual a cero” (Fluitronic, s.f.).
-    p.mt-5(data-aos="fade-up") A continuación, se aprecia lo expuesto.
-    br
+    p.mt-3.mb-3(data-aos="fade-up") A continuación, se aprecia lo expuesto.
+    
     .row
       .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-3
         h5 Figura 6 
@@ -212,7 +255,7 @@
         figure
           img(src='@/assets/curso/temas/Tema1/22.svg', alt='')
 
-    p.mt-5(data-aos="fade-up") Entonces, si se realiza la simulación para el ejercicio anterior quedaría así:
+    p.mt-3.mb-3(data-aos="fade-up") Entonces, si se realiza la simulación para el ejercicio anterior quedaría así:
     br
     .row
       .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-3
@@ -236,29 +279,39 @@
         figure
           img(src='@/assets/curso/temas/Tema1/25.svg', alt='')
 
-    p.mt-5(data-aos="fade-up") El signo negativo indica que la corriente circula al contrario del sentido planteado.
-    br
+    p.mt-5.mb-3(data-aos="fade-up") El signo negativo indica que la corriente circula al contrario del sentido planteado.
+    
     .row
       .col-sm-12.titulo-sexto.color-acento-contenido.mb-3
         h5 #[strong Las Leyes de Kirchhoff] 
-    p.mt-5(data-aos="fade-up") El siguiente video ofrece mayor claridad sobre estos procesos.
-    figure
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/yEs4o8Gr0Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    //- p.mt-3.mb-3 El siguiente video ofrece mayor claridad sobre estos procesos.
+    //- figure
+    //-   .video
+    //-     iframe(width="560" height="315" src="https://www.youtube.com/embed/yEs4o8Gr0Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    p.mt-5(data-aos="fade-up") La #[strong Ley de mallas], por su parte, establece lo siguiente:
+    .row
+      .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-3
+        h5 Figura 8 
+        span #[em  Leyes de Kirchhoff]
+
+    .row.justify-content-center.align-items-center   
+      .col-lg-8.mb-4.mb-md-0.mt-4
+        figure
+          img(src='@/assets/curso/temas/Tema1/39.svg', alt='')
+
+    p.mt-3.mb-3(data-aos="fade-left") La #[strong Ley de mallas], por su parte, establece lo siguiente:
     .row
       .col-sm-12.col-lg-5.offset-lg-3.mb-4.mb-md-0
         .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
           .row
-              p.px-3.pt-1.pb-3(data-aos="fade-up") “En una malla la suma de todas las tensiones, cada una con su signo correspondiente, es igual a 0” (Inet, s.f.) 
-    p.mt-5(data-aos="fade-up") Esto es así porque la suma de todas las subidas de tensión debe ser igual a la suma de todas las caídas de tensión, ley de conservación de la energía. Se presenta a continuación la figura con su diagrama.
-    br
+              p.px-3.pt-1.pb-0(data-aos="fade-up") “En una malla la suma de todas las tensiones, cada una con su signo correspondiente, es igual a 0” (Inet, s.f.) 
+    p.mt-5.mb-3(data-aos="fade-up") Esto es así porque la suma de todas las subidas de tensión debe ser igual a la suma de todas las caídas de tensión, ley de conservación de la energía. Se presenta a continuación la figura con su diagrama.
+    
     .row
       .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-3
-        h5 Figura 8 
+        h5 Figura 9 
         span #[em  Diagrama esquemático para la Ley de mallas]
-    br
+    
     .row   
       .col-sm-12.col-lg-8.offset-lg-2.mb-4.mb-md-0
         figure
@@ -274,20 +327,20 @@
       .col-sm-12.col-lg-4.offset-lg-4.mb-4.mb-md-0
         figure
           img(src='@/assets/curso/temas/Tema1/28.svg', alt='')
-    p.mt-5(data-aos="fade-up") Una simulación en Tinkercad permite comprobar esta ley, ver figura.
+    p.mt-5(data-aos="fade-up") Una simulación en #[em Tinkercad] permite comprobar esta ley, ver figura.
     br
     .row
       .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-3
-        h5 Figura 9 
+        h5 Figura 10 
         span #[em  Simulación de la Ley de mallas]
     .row   
       .col-sm-12.col-lg-8.offset-lg-2.mb-4.mb-md-0
         figure
           img(src='@/assets/curso/temas/Tema1/29.svg', alt='')
     
-    p.mt-5(data-aos="fade-up") Si se hace este planteamiento al ejercicio analizado por nodos en la figura 7 se debe llegar a los mismos resultados, para este caso se tienen dos mallas, por lo que resulta un sistema de dos ecuaciones con dos incógnitas, lo que hace el análisis un poco más complejo, en algunos casos puede resultar al contrario y se debe elegir la técnica que demande menos esfuerzo.
-    p.mt-5(data-aos="fade-up") La primera malla tiene una subida de tensión y dos bajadas, la segunda igual, pero con el sentido contrario, en términos de voltaje las caídas de tensión en la malla 1 se escriben de la siguiente manera:
-    p.mt-5(data-aos="fade-up") En la resistencia de 1500𝛀 la caída de tensión está dada por:
+    p.mt-3(data-aos="fade-left") Si se hace este planteamiento al ejercicio analizado por nodos en la figura 7 se debe llegar a los mismos resultados, para este caso se tienen dos mallas, por lo que resulta un sistema de dos ecuaciones con dos incógnitas, lo que hace el análisis un poco más complejo, en algunos casos puede resultar al contrario y se debe elegir la técnica que demande menos esfuerzo.
+    p.mt-3(data-aos="fade-left") La primera malla tiene una subida de tensión y dos bajadas, la segunda igual, pero con el sentido contrario, en términos de voltaje las caídas de tensión en la malla 1 se escriben de la siguiente manera:
+    p.mt-3(data-aos="fade-left") En la resistencia de 1500𝛀 la caída de tensión está dada por:
     .row   
       .col-sm-12.col-lg-2.offset-lg-5.mb-4.mb-md-0
         figure
@@ -323,15 +376,15 @@
       .col-sm-12.col-lg-10.offset-lg-1.mb-4.mb-md-0
         .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
           .row
-              p.px-3.pt-1.pb-3(data-aos="fade-up") Es su elección el método a utilizar, algunos circuitos ofrecen mayor facilidad con un método determinado, eso hace parte del análisis. 
-    .row
-      .col-sm-12.titulo-sexto.color-acento-contenido.mb-3
-        h5 #[strong Ley de mallas] 
+              p.px-3.pt-1.pb-3.mb-3(data-aos="fade-left") Es su elección el método a utilizar, algunos circuitos ofrecen mayor facilidad con un método determinado, eso hace parte del análisis. 
+    //- .row
+    //-   .col-sm-12.titulo-sexto.color-acento-contenido.mb-3
+    //-     h5 #[strong Ley de mallas] 
     
-    p.mt-5(data-aos="fade-up") El siguiente video ofrece una explicación de mayor claridad sobre esta ley.
-      figure
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/yEs4o8Gr0Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    //- p.mt-3.mb-3(data-aos="fade-up") El siguiente video ofrece una explicación de mayor claridad sobre esta ley.
+    //-   figure
+    //-     .video
+    //-       iframe(width="560" height="315" src="https://www.youtube.com/embed/yEs4o8Gr0Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador 
     #t_1_3.titulo-segundo.mt-2.color-acento-contenido

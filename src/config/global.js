@@ -193,7 +193,7 @@ export default {
     {
       termino: 'Conductividad',
       significado:
-        'Propiedad que tienen los cuerpos de transmitir el calor o la electricidad (Real Academia Española, 2021)-',
+        'Propiedad que tienen los cuerpos de transmitir el calor o la electricidad (Real Academia Española, 2021).',
     },
     {
       termino: 'Eficiencia',
@@ -261,7 +261,7 @@ export default {
         {
           nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
