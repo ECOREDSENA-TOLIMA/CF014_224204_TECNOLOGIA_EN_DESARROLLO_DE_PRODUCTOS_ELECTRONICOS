@@ -17,7 +17,7 @@
     .row   
       .col-sm-12.col-lg-12.mt-3
         figure
-          img(src='@/assets/curso/temas/Tema1/1.png', alt='')    
+          img(src='@/assets/curso/temas/Tema1/1.svg', alt='')    
     
     p.mt-5(data-aos="fade-left") El cálculo de estas magnitudes normalmente requiere de la aplicación de principios, leyes y teoremas.
     p.mt-3.mb-3(data-aos="fade-left") En algunos casos deben estar involucradas más de una vez para poder medirlas y calcularlas; este es el caso de la intensidad de corriente eléctrica, que para poder obtener un valor medido debe estar conectada una diferencia de potencial a una resistencia eléctrica. Lo mismo pasa con la frecuencia eléctrica, que es el cambio en el tiempo del valor de una tensión o corriente eléctrica.
