@@ -67,12 +67,12 @@
     #t_3_1.titulo-segundo.mt-2.color-acento-contenido
       h2 3.1 Normas de calidad
 
-    p.mt-3(data-aos="fade-up") Este tipo de normas dan las pautas para lograr un producto de calidad. Son aplicadas a los procesos de medición y están referidas a los parámetros válidos para mantener la calidad del producto. Dentro de ellas se encuentran las siguientes.
+    p.mt-3(data-aos="fade-left") Este tipo de normas dan las pautas para lograr un producto de calidad. Son aplicadas a los procesos de medición y están referidas a los parámetros válidos para mantener la calidad del producto. Dentro de ellas se encuentran las siguientes.
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="IPC 600 – Aceptabilidad de circuitos impresos")
         .col-md-7.mb-4.mb-md-0.offset-lg-1
-          p.mt-4(data-aos="fade-up") Esta norma aplica a los  diseñadores, ensambladores, soldadores, cables, reparadores,  la norma establece los criterios de inspección de calidad visual, es la norma más difundida en la industria electrónica mundial, apoya las actividades de diseño, manufactura y mantenimiento en electrónica. Contiene apartados del IPC 600 y el IPC JST 001. La norma más actualizada es la IPC A 610 G (IPC-A-610 en español. La letra «A» es de aceptación de calidad).
+          p.mt-4(data-aos="fade-left") Esta norma aplica a los  diseñadores, ensambladores, soldadores, cables, reparadores,  la norma establece los criterios de inspección de calidad visual, es la norma más difundida en la industria electrónica mundial, apoya las actividades de diseño, manufactura y mantenimiento en electrónica. Contiene apartados del IPC 600 y el IPC JST 001. La norma más actualizada es la IPC A 610 G (IPC-A-610 en español. La letra «A» es de aceptación de calidad).
         .col-md-4
           figure
             img(src='@/assets/curso/temas/Tema3/4.svg', alt='Texto que describa la imagen')
@@ -80,7 +80,7 @@
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="IPC 610: Aceptabilidad del ensamble electrónico")
         .col-md-7.mb-4.mb-md-0.offset-lg-1
-          p.mt-4(data-aos="fade-up") Es quizás  el estándar de calidad de circuitos impresos PCB más usado por la industria electrónica, en ella se establecen los criterios para aceptar o rechazar los PCB y la soldadura de tarjetas o productos electrónicos, componentes SMD y THT.
+          p.mt-4(data-aos="fade-left") Es quizás  el estándar de calidad de circuitos impresos PCB más usado por la industria electrónica, en ella se establecen los criterios para aceptar o rechazar los PCB y la soldadura de tarjetas o productos electrónicos, componentes SMD y THT.
         .col-md-4
           figure
             img(src='@/assets/curso/temas/Tema3/5.svg', alt='Texto que describa la imagen')
@@ -88,27 +88,27 @@
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="IPC 620: Requisitos y aceptación para cables y conexiones")
         .col-md-7.mb-4.mb-md-0.offset-lg-1
-          p.mt-4(data-aos="fade-up") Aplica a quienes trabajan en ensamble de cables y alambres para la fabricación e instalación de cables. Criterios visuales de aceptación.
+          p.mt-4(data-aos="fade-left") Aplica a quienes trabajan en ensamble de cables y alambres para la fabricación e instalación de cables. Criterios visuales de aceptación.
         .col-md-4
           figure
             img(src='@/assets/curso/temas/Tema3/6.svg', alt='Texto que describa la imagen')
 
-    p.mt-3(data-aos="fade-up") Si se incluyen las telecomunicaciones, también será necesario aplicar las normas de calidad referidas a esta área, estas incluyen la ISO 9001, TL9000 y ESD S20.20. Estas normas ofrecen un sistema de gestión de calidad en electrónica y telecomunicaciones, también identifica requisitos específicos para los proveedores del área. La norma ANSI/ESD S20.20 se centra en los componentes electrónicos utilizados en las telecomunicaciones y establece los controles para proteger a los elementos y dispositivos de las descargas electrostáticas.
-    p.mt-3(data-aos="fade-up") Adicionalmente, puede ser necesario consultar otras normas, las cuales se aplican dependiendo de la naturaleza del producto desarrollado.
+    p.mt-3(data-aos="fade-left") Si se incluyen las telecomunicaciones, también será necesario aplicar las normas de calidad referidas a esta área, estas incluyen la ISO 9001, TL9000 y ESD S20.20. Estas normas ofrecen un sistema de gestión de calidad en electrónica y telecomunicaciones, también identifica requisitos específicos para los proveedores del área. La norma ANSI/ESD S20.20 se centra en los componentes electrónicos utilizados en las telecomunicaciones y establece los controles para proteger a los elementos y dispositivos de las descargas electrostáticas.
+    p.mt-3(data-aos="fade-left") Adicionalmente, puede ser necesario consultar otras normas, las cuales se aplican dependiendo de la naturaleza del producto desarrollado.
 
     Separador 
     #t_3_2.titulo-segundo.mt-2.color-acento-contenido
       h2 3.2 Normativa aplicable al producto 
     
-    p.mt-3(data-aos="fade-up") Cuando se desarrolla un producto electrónico es necesario aplicar algunas normas, que al final conllevan a obtener un producto amigable con el medio ambiente, a través también de un consumo energético aceptable. Si se hace referencia a los procesos de medición se encuentran algunos parámetros que se deben cumplir: niveles de tensión, potencia de consumo y emisión electromagnética.   
-    p.mt-3(data-aos="fade-up") Cuando se tiene un producto electrónico, desarrollado y en funcionamiento, probablemente sea necesario efectuar algunos cálculos y mediciones o realizar alguna inspección visual y pruebas de funcionamiento para verificar si cumple con los estándares descritos en las siguientes normas:
+    p.mt-3(data-aos="fade-left") Cuando se desarrolla un producto electrónico es necesario aplicar algunas normas, que al final conllevan a obtener un producto amigable con el medio ambiente, a través también de un consumo energético aceptable. Si se hace referencia a los procesos de medición se encuentran algunos parámetros que se deben cumplir: niveles de tensión, potencia de consumo y emisión electromagnética.   
+    p.mt-3(data-aos="fade-left") Cuando se tiene un producto electrónico, desarrollado y en funcionamiento, probablemente sea necesario efectuar algunos cálculos y mediciones o realizar alguna inspección visual y pruebas de funcionamiento para verificar si cumple con los estándares descritos en las siguientes normas:
 
     .tarjeta.tarjeta--gris.p-4
       LineaTiempoC.color-acento-contenido(text-small)
         .row.justify-content-center.align-items-center(titulo="IPC-7711/21")
           .col-md-7.mb-4.mb-md-0
-            p.mt-3(data-aos="fade-up") Este estándar proporciona múltiples técnicas aprobadas por la industria, relacionadas con el proceso de perforado y montaje superficial, así como la preparación de superficies, conductores y laminados. Es probable que deban efectuarse algunas mediciones para determinar el estado de conectividad de algunos componentes, si no existen pistas aisladas, soldadura mal puesta, etc.
-            p.mt-3(data-aos="fade-up") Al aplicar un proceso de medición puede resultar en baja conductividad o circuitos completamente aislados.
+            p.mt-3(data-aos="fade-left") Este estándar proporciona múltiples técnicas aprobadas por la industria, relacionadas con el proceso de perforado y montaje superficial, así como la preparación de superficies, conductores y laminados. Es probable que deban efectuarse algunas mediciones para determinar el estado de conectividad de algunos componentes, si no existen pistas aisladas, soldadura mal puesta, etc.
+            p.mt-3(data-aos="fade-left") Al aplicar un proceso de medición puede resultar en baja conductividad o circuitos completamente aislados.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/Tema3/7.svg', alt='alt')
@@ -159,7 +159,7 @@
       .tarjeta.color-primario--borde.p-4(titulo="ISO 27001")
         h4 ISO 27001
         .row
-          p Esta norma establece los  sistemas de gestión de la seguridad de la información. Busca en gran medida proteger los derechos de autor.  #[em testing conversions from HTML format to other formats, since some elements can go wrong then].
+          p Esta norma establece los  sistemas de gestión de la seguridad de la información. Busca en gran medida proteger los derechos de autor.
           p Muchos productos electrónicos son susceptibles de copias indebidas, es decir, que puede tratarse de un invento novedoso y por lo tanto, es necesario aplicar todos los criterios para garantizar los derechos de autoría de su creador. Muchos de los artefactos que se usan diariamente en el hogar poseen derechos de autor y parte del dinero de  la compra será destinado a su creador.
 
           .col-xl-12.mb-4
@@ -185,7 +185,6 @@
           .col-xl-10 
             p Como se observa en la imagen, este tipo de placas poseen unos acabados especiales, establecidos en esta norma, los cables vienen con un apantallamiento especial y este casi siempre se extiende a los componentes ensamblados en la placa.
         p Placa para uso con radiofrecuencia
-
 
       .tarjeta.color-primario--borde.p-4(titulo="IPC-2255")
         h4 IPC-2255

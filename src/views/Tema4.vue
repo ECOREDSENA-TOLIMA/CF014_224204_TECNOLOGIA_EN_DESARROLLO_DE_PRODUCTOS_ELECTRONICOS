@@ -15,7 +15,7 @@
         figure  
           img(src='@/assets/curso/temas/Tema4/1.svg', alt='alt')
 
-    p.mt-3.mb-3(data-aos="fade-up") Los productos electrónicos están en constante evolución. Día a día se desarrollan nuevas tecnologías, muchas de ellas pueden ser involucradas en productos ya desarrollados, lo que permite mejorarlos, innovarlos o crear uno nuevo con mejores prestaciones. Es probable que al efectuar la medición de la corriente de consumo de un hogar común comiencen a surgir ideas sobre cómo mejorar ese consumo y hacer el producto más eficiente y amigable con el medio ambiente. Esto ha sido así siempre, un ejemplo de ello es la bombilla eléctrica.
+    p.mt-3.mb-3(data-aos="fade-left") Los productos electrónicos están en constante evolución. Día a día se desarrollan nuevas tecnologías, muchas de ellas pueden ser involucradas en productos ya desarrollados, lo que permite mejorarlos, innovarlos o crear uno nuevo con mejores prestaciones. Es probable que al efectuar la medición de la corriente de consumo de un hogar común comiencen a surgir ideas sobre cómo mejorar ese consumo y hacer el producto más eficiente y amigable con el medio ambiente. Esto ha sido así siempre, un ejemplo de ello es la bombilla eléctrica.
 
     .row
       .col-sm-12.offset-lg-3.titulo-sexto.color-acento-contenido.mb-3
@@ -39,7 +39,7 @@
     #t_4_1.titulo-segundo.mt-2.color-acento-contenido
       h2 4.1 Metodología
     
-    p.mt-3(data-aos="fade-up") La metodología más utilizada para la mejora continua es el método #[em Kaizen], vocablo japonés derivado de dos palabras, #[em «kai»], que significa cambio, y #[em «zen»], que expresa para algo mejor, lo que quiere decir cambiar para mejorar o mejora continua, que aplica en todos los contextos. En otras palabras, cuando se están efectuando mediciones en un equipo electrónico se puede estar pensando en cómo mejorar esos resultados obtenidos.
+    p.mt-3(data-aos="fade-left") La metodología más utilizada para la mejora continua es el método #[em Kaizen], vocablo japonés derivado de dos palabras, #[em «kai»], que significa cambio, y #[em «zen»], que expresa para algo mejor, lo que quiere decir cambiar para mejorar o mejora continua, que aplica en todos los contextos. En otras palabras, cuando se están efectuando mediciones en un equipo electrónico se puede estar pensando en cómo mejorar esos resultados obtenidos.
     
     .col-sm.mb-5.mb-sm-0
         h4 Las tres herramientas principales del #[em Kaizen] son:
@@ -61,7 +61,7 @@
       .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
         p En términos generales lo que indica el #[em Kaizen] es que si se quiere generar cambios sostenibles en el tiempo se deben lograr cambios radicales en el corto plazo, haciendo mejoras pequeñas en el día a día, lo que finalmente llevará a objetivos grandes.
 
-    p.mt-3(data-aos="fade-up") En la actualidad existe una amplia gama de técnicas para lograr el proceso de mejora continua, por ejemplo:
+    p.mt-3(data-aos="fade-left") En la actualidad existe una amplia gama de técnicas para lograr el proceso de mejora continua, por ejemplo:
 
     TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="El ciclo PDCA")
@@ -131,8 +131,8 @@
     #t_4_2.titulo-segundo.mt-2.color-acento-contenido
       h2 4.2 Manejo de indicadores
 
-    p.mt-3(data-aos="fade-up") La implementación de un proceso de mejora continua lleva a obtener mejores resultados tanto en la gestión del producto como en la reducción de los costos, mejora de procesos, gestión de residuos y clientes satisfechos. Para lograr todo esto es necesario analizar y medir la eficiencia y productividad de todos los procesos.
-    p.mt-3(data-aos="fade-up") De ahí la necesidad de un sistema de medición que permita gestionar y tener claro dichos resultados para poder actuar. Existen varios indicadores utilizados en las empresas para medir la evolución:
+    p.mt-3(data-aos="fade-left") La implementación de un proceso de mejora continua lleva a obtener mejores resultados tanto en la gestión del producto como en la reducción de los costos, mejora de procesos, gestión de residuos y clientes satisfechos. Para lograr todo esto es necesario analizar y medir la eficiencia y productividad de todos los procesos.
+    p.mt-3.mb-5(data-aos="fade-left") De ahí la necesidad de un sistema de medición que permita gestionar y tener claro dichos resultados para poder actuar. Existen varios indicadores utilizados en las empresas para medir la evolución:
 
     .row.justify-content-center.align-items-center
       .col-lg-6
@@ -170,7 +170,6 @@
                 .col-lg-8.offset-lg-2
                   figure
                     img(src="@/assets/curso/temas/Tema4/10.svg" alt="alt")
-
       .col-lg-6
         .col-lg-8.order-2.order-lg-1
           TabsA.color-primario.mb-5
@@ -203,7 +202,7 @@
     #t_4_3.titulo-segundo.mt-2.color-acento-contenido
       h2 4.3 Acciones de mejora
     
-    p.mt-3(data-aos="fade-up") Si se implementa un proceso de mejora continua, necesariamente hay que aplicar unas acciones que permitan detectar fallas y prevenir futuras. En mediciones de las magnitudes eléctricas, las acciones llevan a ajustar los valores para que estén en sintonía con lo que inicialmente se estableció como objetivo.
+    p.mt-3(data-aos="fade-left") Si se implementa un proceso de mejora continua, necesariamente hay que aplicar unas acciones que permitan detectar fallas y prevenir futuras. En mediciones de las magnitudes eléctricas, las acciones llevan a ajustar los valores para que estén en sintonía con lo que inicialmente se estableció como objetivo.
     
     .my-5
       .col-sm-12.col-lg-10.offset-lg-1
@@ -216,7 +215,7 @@
             br
             br
     
-    p.mt-3(data-aos="fade-up") A continuación, se presentan algunas acciones genéricas establecidas como acciones de mejora en varios campos.
+    p.mt-3(data-aos="fade-left") A continuación, se presentan algunas acciones genéricas establecidas como acciones de mejora en varios campos.
 
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="Definir los procesos claramente")
@@ -234,7 +233,7 @@
             img(src="@/assets/curso/temas/Tema4/12.svg" alt="alt")
             figcaption Producto defectuoso. Nota: Tomado de Bcnvisión (2021).
 
-    p.mt-3(data-aos="fade-up") Existen muchas acciones por pequeñas que parezcan, que encajan muy bien en los procesos y permiten tener una mejora continua, puede ser el caso de la reducción de los plazos de ejecución de las actividades, incrementar el rendimiento de los equipos de trabajo y/o aumentar la productividad y por ende, la eficacia en los resultados. Es por eso que se le llama mejora continua, el mismo día a día marca las pautas para seguir mejorando, lo importante es establecer esas acciones oportunas que permitan mejorar cada proceso.
+    p.mt-3(data-aos="fade-left") Existen muchas acciones por pequeñas que parezcan, que encajan muy bien en los procesos y permiten tener una mejora continua, puede ser el caso de la reducción de los plazos de ejecución de las actividades, incrementar el rendimiento de los equipos de trabajo y/o aumentar la productividad y por ende, la eficacia en los resultados. Es por eso que se le llama mejora continua, el mismo día a día marca las pautas para seguir mejorando, lo importante es establecer esas acciones oportunas que permitan mejorar cada proceso.
 
 </template>
 
