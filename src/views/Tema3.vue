@@ -107,26 +107,24 @@
       LineaTiempoC.color-acento-contenido(text-small)
         .row.justify-content-center.align-items-center(titulo="IPC-7711/21")
           .col-md-7.mb-4.mb-md-0
-            p.mt-3(data-aos="fade-left") Este estándar proporciona múltiples técnicas aprobadas por la industria, relacionadas con el proceso de perforado y montaje superficial, así como la preparación de superficies, conductores y laminados. Es probable que deban efectuarse algunas mediciones para determinar el estado de conectividad de algunos componentes, si no existen pistas aisladas, soldadura mal puesta, etc.
-            p.mt-3(data-aos="fade-left") Al aplicar un proceso de medición puede resultar en baja conductividad o circuitos completamente aislados.
+            p.mt-3 Este estándar proporciona múltiples técnicas aprobadas por la industria, relacionadas con el proceso de perforado y montaje superficial, así como la preparación de superficies, conductores y laminados. Es probable que deban efectuarse algunas mediciones para determinar el estado de conectividad de algunos componentes, si no existen pistas aisladas, soldadura mal puesta, etc.
+            p.mt-3 Al aplicar un proceso de medición puede resultar en baja conductividad o circuitos completamente aislados.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/Tema3/7.svg', alt='alt')
 
-          
-          
         .row.justify-content-center.align-items-center(titulo="IPC 2221")
           .col-md-7.mb-4.mb-md-0
-            p.mt-5(data-aos="fade-up") Esta norma define los requerimientos para el diseño de PCB. Está dentro de las normas más  usadas, define los requerimientos para el diseño de PCB, estableciendo unas reglas de diseño y recomendaciones que incluyen el ensamble de los componentes, tipo THT (Through-Hole Technology) huecos pasantes,  SMT (Surface-Mount technology) montaje.
+            p.mt-5 Esta norma define los requerimientos para el diseño de PCB. Está dentro de las normas más  usadas, define los requerimientos para el diseño de PCB, estableciendo unas reglas de diseño y recomendaciones que incluyen el ensamble de los componentes, tipo THT (Through-Hole Technology) huecos pasantes,  SMT (Surface-Mount technology) montaje.
                       
           .col-md-5
             figure
               img(src='@/assets/curso/temas/Tema3/8.svg', alt='alt')
         .row.justify-content-center.align-items-center(titulo="IPC-T-50M")
           .col-md-7.mb-4.mb-md-0
-            p.mt-5(data-aos="fade-up") Términos y definiciones para la interconexión y encapsulados de circuitos electrónicos.
-            p.mt-3(data-aos="fade-up") Este tema es importante debido a que necesariamente deben mantenerse los estándares para el montaje de circuitos impresos, las medidas de estos son precisas y milimétricas y, el diseño de la PCB y las pistas de interconexión deben estar sujetas a los parámetros de estos chips. 
-            p.mt-3(data-aos="fade-up") Adicional a ello, estas medidas pueden ser verificadas y comprobadas si al imprimir la placa están dentro de los valores de tolerancia.
+            p.mt-5 Términos y definiciones para la interconexión y encapsulados de circuitos electrónicos.
+            p.mt-3 Este tema es importante debido a que necesariamente deben mantenerse los estándares para el montaje de circuitos impresos, las medidas de estos son precisas y milimétricas y, el diseño de la PCB y las pistas de interconexión deben estar sujetas a los parámetros de estos chips. 
+            p.mt-3 Adicional a ello, estas medidas pueden ser verificadas y comprobadas si al imprimir la placa están dentro de los valores de tolerancia.
 
           .col-md-5
             figure
