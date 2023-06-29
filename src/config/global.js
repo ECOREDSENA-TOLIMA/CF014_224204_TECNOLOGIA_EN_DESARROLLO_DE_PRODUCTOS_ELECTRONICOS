@@ -148,6 +148,11 @@ export default {
         download: 'downloads/material.zip',
       },
       {
+        icono: 'fas fa-download',
+        titulo: 'Descargar pdf',
+        download: 'downloads/CFA_14_224204.pdf',
+      },
+      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -225,7 +230,7 @@ export default {
       referencia:
         'ICONTEC. (2003). NTC-ISO 10012. Sistemas de gestión de la medición. ICONTEC.',
       link:
-        'https://idrd.gov.co/sitio/idrd/sites/default/files/imagenes/ntc-iso10012%20medicion%20y%20equipos0.pdf',
+        'https://tienda.icontec.org/gp-sistema-de-gestion-de-la-medicion-requisitos-para-los-procesos-de-medicion-y-los-equipos-de-medicion-ntc-iso10012-2003.html',
     },
     {
       referencia:

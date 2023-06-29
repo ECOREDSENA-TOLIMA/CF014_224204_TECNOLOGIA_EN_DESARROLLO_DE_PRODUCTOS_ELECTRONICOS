@@ -78,7 +78,7 @@
         .row
           .col-xl-12
             .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
-              p De ahí que cuando se  efectua la medición en el circuito, este debe debe arrojar un valor cercano. De esta misma manera, si solo se tienen dos valores, cualesquiera que sean, se puede obtener el tercero, solo haciendo un despeje matemático.
+              p De ahí que cuando se  efectua la medición en el circuito, este debe arrojar un valor cercano. De esta misma manera, si solo se tienen dos valores, cualesquiera que sean, se puede obtener el tercero, solo haciendo un despeje matemático.
 
     separador 
     #t_1_1.titulo-segundo.mt-2.color-acento-contenido
