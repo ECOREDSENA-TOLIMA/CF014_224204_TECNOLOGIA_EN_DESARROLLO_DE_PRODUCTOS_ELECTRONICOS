@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="545" viewBox="0 0 824 545">
+  <g id="Grupo_81456" data-name="Grupo 81456" transform="translate(-390 -13291.418)">
+    <g id="Grupo_55090" data-name="Grupo 55090" transform="translate(3138.021 10224.77)">
+      <rect id="Rectángulo_7441" data-name="Rectángulo 7441" width="489.373" height="410.327" transform="translate(-2584.179 3128.041)" fill="none" stroke="#3c0061" stroke-miterlimit="10" stroke-width="6.083"/>
+      <g id="Grupo_55087" data-name="Grupo 55087" transform="translate(-2641.021 3280.803)">
+        <circle id="Elipse_4234" data-name="Elipse 4234" cx="62.615" cy="62.615" r="62.615" fill="#47d0b7"/>
+        <g id="Grupo_55086" data-name="Grupo 55086" transform="translate(48.747 32.248)">
+          <line id="Línea_158" data-name="Línea 158" y2="26.513" transform="translate(13.585)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="6.351"/>
+          <line id="Línea_159" data-name="Línea 159" x1="26.513" transform="translate(0 12.41)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="6.351"/>
+        </g>
+        <line id="Línea_160" data-name="Línea 160" x2="23.551" transform="translate(51.051 89.974)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="6.351"/>
+      </g>
+      <g id="Grupo_55089" data-name="Grupo 55089" transform="translate(-2156.251 3280.803)">
+        <circle id="Elipse_4235" data-name="Elipse 4235" cx="62.615" cy="62.615" r="62.615" transform="translate(0)" fill="#6bd2bf"/>
+        <g id="Grupo_55088" data-name="Grupo 55088" transform="translate(48.747 67.33)">
+          <line id="Línea_161" data-name="Línea 161" y2="26.513" transform="translate(13.585)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="6.351"/>
+          <line id="Línea_162" data-name="Línea 162" x1="26.513" transform="translate(0 12.41)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="6.351"/>
+        </g>
+        <line id="Línea_163" data-name="Línea 163" x2="23.551" transform="translate(51.051 39.349)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="6.351"/>
+      </g>
+      <rect id="Rectángulo_7442" data-name="Rectángulo 7442" width="54.5" height="149.876" rx="9" transform="translate(-2271.72 3102.012) rotate(90)" fill="#6bd2bf"/>
+      <rect id="Rectángulo_7443" data-name="Rectángulo 7443" width="54.5" height="149.876" rx="11" transform="translate(-2271.72 3515.892) rotate(90)" fill="#6bd2bf"/>
+      <path id="Trazado_103899" data-name="Trazado 103899" d="M-2279.2,3506.8a90.934,90.934,0,0,1,90.769-87.878,90.914,90.914,0,0,1,90.579,84.652h-26.012a1.979,1.979,0,0,0-1.78,1.1,1.962,1.962,0,0,0,.153,2.1l40.509,56.32a2.192,2.192,0,0,0,3.367,0l40.522-56.32a1.986,1.986,0,0,0,.149-2.1,2,2,0,0,0-1.8-1.1H-2068.1c-3.238-63.609-55.93-114.384-120.336-114.384a120.676,120.676,0,0,0-120.5,117.61Z" transform="translate(-149.46 -137.406)" fill="#6bd2bf"/>
+    </g>
+    <text id="V2_-8V" data-name="V2 = -8V" transform="translate(755 13309.418)" fill="#12263f" font-size="19" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">V2 = -8V</tspan></text>
+    <text id="V4_-12V" data-name="V4 = -12V" transform="translate(755 13831.418)" fill="#12263f" font-size="19" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">V4 = -12V</tspan></text>
+    <text id="V3_11V" data-name="V3 = 11V" transform="translate(1136 13578.972)" fill="#12263f" font-size="19" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">V3 = 11V</tspan></text>
+    <text id="V1_9V" data-name="V1 = 9V" transform="translate(390 13578.972)" fill="#12263f" font-size="19" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">V1 = 9V</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="803" height="123.055" viewBox="0 0 803 123.055">
+  <g id="Grupo_81436" data-name="Grupo 81436" transform="translate(-600 -3678.859)">
+    <g id="Grupo_55052" data-name="Grupo 55052" transform="translate(-420 592.789)">
+      <g id="Grupo_55051" data-name="Grupo 55051" transform="translate(-58.538 2334.357)">
+        <rect id="Rectángulo_7414" data-name="Rectángulo 7414" width="610.033" height="118.055" transform="translate(1183.505 754.213)" fill="none" stroke="#3c0061" stroke-miterlimit="10" stroke-width="5"/>
+        <circle id="Elipse_4230" data-name="Elipse 4230" cx="37.113" cy="37.113" r="37.113" transform="translate(1146.894 778.552)" fill="#3c0061"/>
+        <rect id="Rectángulo_7415" data-name="Rectángulo 7415" width="40.123" height="68.236" rx="14" transform="translate(1773.415 779.122)" fill="#3c0061"/>
+        <g id="Grupo_55050" data-name="Grupo 55050" transform="translate(1175.787 801.566)">
+          <line id="Línea_139" data-name="Línea 139" y2="15.715" transform="translate(8.052)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="5"/>
+          <line id="Línea_140" data-name="Línea 140" x1="15.715" transform="translate(0 7.356)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="5"/>
+        </g>
+        <line id="Línea_141" data-name="Línea 141" x2="13.959" transform="translate(1177.153 828.698)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="5"/>
+      </g>
+      <text id="I_" data-name="I = ?" transform="translate(1420 3121)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">I = ?</tspan></text>
+      <text id="V_9V" data-name="V = 9V" transform="translate(1020 3155)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">V = 9V</tspan></text>
+      <text id="R_1K" data-name="R = 1K" transform="translate(1777 3155)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">R = 1K</tspan></text>
+    </g>
+  </g>
+</svg>
