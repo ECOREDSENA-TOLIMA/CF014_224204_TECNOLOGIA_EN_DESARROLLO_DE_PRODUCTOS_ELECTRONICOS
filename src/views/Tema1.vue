@@ -65,7 +65,7 @@
         figure
           img(src='@/assets/curso/temas/Tema1/5.svg', alt='alt')
       .col-xl-8 
-        p Se tiene un resistor de 1000 Ohmios, una fuente de poder de 9 Voltios, el interés se centra en  saber que valor de corriente se obtiene si se realiza la conexión de este circuito, el siguiente diagrama esquemático muestra este planteamiento:
+        p Se tiene un resistor de 1000 Ohmios, una fuente de poder de 9 Voltios, el interés se centra en saber qué valor de corriente se obtiene si se realiza la conexión de este circuito, el siguiente diagrama esquemático muestra este planteamiento:
           figure
             img(src='@/assets/curso/temas/Tema1/6.svg', alt='alt')
         .row
@@ -78,7 +78,7 @@
         .row
           .col-xl-12
             .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
-              p De ahí que cuando se  efectua la medición en el circuito, este debe arrojar un valor cercano. De esta misma manera, si solo se tienen dos valores, cualesquiera que sean, se puede obtener el tercero, solo haciendo un despeje matemático.
+              p De ahí que cuando se  efectúa la medición en el circuito, este debe arrojar un valor cercano. De esta misma manera, si solo se tienen dos valores, cualesquiera que sean, se puede obtener el tercero, solo haciendo un despeje matemático.
 
     separador 
     #t_1_1.titulo-segundo.mt-2.color-acento-contenido
@@ -152,7 +152,7 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 #[em Tinkercad] es un #[em Software] en línea, desarrollado por AutoCAD, de uso libre, que sirve para simular las principales magnitudes eléctricas. También existen aplicaciones pagadas que proporcionan datos muy cercanos a la realidad. 
     
-    p.mt-5.mb-5(data-aos="fade-left") Estos softwares permiten tener una aproximación muy buena de lo que será el comportamiento de las variables involucradas una vez se haga el montaje real. Haciendo la simulación de la Ley de Ohm, quedaría el siguiente montaje, ver figura.
+    p.mt-5.mb-5(data-aos="fade-left") Estos #[i softwares] permiten tener una aproximación muy buena de lo que será el comportamiento de las variables involucradas una vez se haga el montaje real. Haciendo la simulación de la Ley de Ohm, quedaría el siguiente montaje, ver figura.
     
     .row
       .col-sm-12.offset-lg-2.titulo-sexto.color-acento-contenido.mb-5
@@ -210,7 +210,7 @@
         figure
           img(src='@/assets/curso/temas/Tema1/16.svg', alt='')
 
-    p.mt-5(data-aos="fade-left") Si se aplica esta ley al nodo N1 de la imagen 4 se obtiene una ecuación que permite realizar estos cálculos, se aprecia que I_1e I_3 entran, mientras que I_2 sale. Mediante un análisis matemático se obtiene lo siguiente:
+    p.mt-5(data-aos="fade-left") Si se aplica esta ley al nodo N1 de la figura 6 se obtiene una ecuación que permite realizar estos cálculos, se aprecia que I_1e I_3 entran, mientras que I_2 sale. Mediante un análisis matemático se obtiene lo siguiente:
     
     .row   
       .col-sm-12.col-lg-4.offset-lg-4.mb-4.mb-md-0
@@ -244,7 +244,7 @@
         figure
           img(src='@/assets/curso/temas/Tema1/21.svg', alt='')
 
-    p.mt-5(data-aos="fade-left") Aplicando un despeje matemático para v se obtiene:
+    p.mt-5(data-aos="fade-left") Aplicando un despeje matemático para V se obtiene:
     
     .row   
       .col-sm-12.col-lg-2.offset-lg-5.mb-4.mb-md-0

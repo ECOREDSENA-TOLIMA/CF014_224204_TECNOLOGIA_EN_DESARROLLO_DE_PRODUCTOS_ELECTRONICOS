@@ -19,7 +19,7 @@
       .col-sm-12.col-lg-10.mb-4.mb-md-0.mt-5
         .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
           .row
-            p.px-3.pt-1.pb-3 El control de calidad es un paso importante para la obtención de un producto final que cumpla con lo requerido de acuerdo con la función para la que fue creado. El proceso de medición e interpretación de la medida, entonces, es un paso fundamental para que esta verificación sea exitosa .
+            p.px-3.pt-1.pb-3 El control de calidad es un paso importante para la obtención de un producto final que cumpla con lo requerido de acuerdo con la función para la que fue creado. El proceso de medición e interpretación de la medida, entonces, es un paso fundamental para que esta verificación sea exitosa.
 
 </template>
 

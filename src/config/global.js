@@ -93,7 +93,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Mejora continuas',
+        titulo: 'Mejora continua',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -161,7 +161,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'RETIEQ Reglamento Técnico de Etiquetado',
+      tema: 'Reglamento Técnico de Etiquetado - RETIQ',
       referencia:
         'Ministerio de Energía. (2015). Reglamento técnico de etiquetado.',
       tipo: 'Texto, norma',
@@ -224,11 +224,11 @@ export default {
     {
       referencia: 'Fliutronic. (s.f.). Leyes de Kirchhoff',
       link:
-        'https://www.fluitronic.es/descargas/tablas-formulas/leyes-kirchhoff#:~:text=La%20ley%20de%20corrientes%20de,de%20la%20corriente%20que%20sale.&text=La%20ley%20se%20basa%20en,y%20el%20tiempo%20en%20segundos',
+        'https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws',
     },
     {
       referencia:
-        'ICONTEC. (2003). NTC-ISO 10012. Sistemas de gestión de la medición. ICONTEC.',
+        'ICONTEC. (2003). NTC-ISO 10012. Sistema de gestión de la medición. ICONTEC.',
       link:
         'https://tienda.icontec.org/gp-sistema-de-gestion-de-la-medicion-requisitos-para-los-procesos-de-medicion-y-los-equipos-de-medicion-ntc-iso10012-2003.html',
     },

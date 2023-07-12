@@ -77,7 +77,6 @@
           figure
             img(src='@/assets/curso/temas/Tema3/4.svg', alt='Texto que describa la imagen')
             
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="IPC 610: Aceptabilidad del ensamble electrónico")
         .col-md-7.mb-4.mb-md-0.offset-lg-1
           p.mt-4(data-aos="fade-left") Es quizás  el estándar de calidad de circuitos impresos PCB más usado por la industria electrónica, en ella se establecen los criterios para aceptar o rechazar los PCB y la soldadura de tarjetas o productos electrónicos, componentes SMD y THT.
@@ -85,7 +84,6 @@
           figure
             img(src='@/assets/curso/temas/Tema3/5.svg', alt='Texto que describa la imagen')
     
-    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="IPC 620: Requisitos y aceptación para cables y conexiones")
         .col-md-7.mb-4.mb-md-0.offset-lg-1
           p.mt-4(data-aos="fade-left") Aplica a quienes trabajan en ensamble de cables y alambres para la fabricación e instalación de cables. Criterios visuales de aceptación.

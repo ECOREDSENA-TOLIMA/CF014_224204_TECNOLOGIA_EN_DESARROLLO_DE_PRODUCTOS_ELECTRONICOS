@@ -33,7 +33,7 @@
               figure  
                 img(src='@/assets/curso/temas/Tema4/13.svg', alt='alt')
             .col-sm-12.col-lg-11
-              p En mediciones efectuadas a las primeras bombillas incandescente, los resultados arrojaban que para un alto consumo de energía, generaban pocos lumens (Iluminación), y en cambio disipaba grandes cantidades de calor. El 70% de la energía consumida se transformaba en calor, siendo que el sentido de esta era alumbrar y no calentar. Es allí cuando surge la luz fluorescente como una solución, mejoró en gran medida esa eficiencia, pero adicionalmente tenía un problema, necesitaba de mercurio para funcionar, y este es altamente peligroso para la salud, por lo que el siguiente paso fue el bombillo LED, mucho más eficiente y sin componentes dañinos. Este mismo análisis se puede hacer para muchos dispositivos electrónicos, sobre todo los del hogar.
+              p En mediciones efectuadas a las primeras bombillas incandescentes, los resultados arrojaban que para un alto consumo de energía, generaban pocos lumens (Iluminación), y en cambio disipaba grandes cantidades de calor. El 70% de la energía consumida se transformaba en calor, siendo que el sentido de esta era alumbrar y no calentar. Es allí cuando surge la luz fluorescente como una solución, mejoró en gran medida esa eficiencia, pero adicionalmente tenía un problema, necesitaba de mercurio para funcionar, y este es altamente peligroso para la salud, por lo que el siguiente paso fue el bombillo LED, mucho más eficiente y sin componentes dañinos. Este mismo análisis se puede hacer para muchos dispositivos electrónicos, sobre todo los del hogar.
 
     separador 
     #t_4_1.titulo-segundo.mt-2.color-acento-contenido
@@ -54,7 +54,7 @@
             | Mejorar la productividad con base en la filosofía justo a tiempo.
           li 
             .lista-ol--cuadro__vineta.v--green
-              span 2
+              span 3
             | Desplegar la gestión por objetivos para mantenerse enfocado y motivado.
 
     .col-xl-10.offset-lg-1
@@ -167,7 +167,7 @@
               h4 ITO (Tasa Rotación Inventario)
               .cajon.color-primario.pt-4.px-4.pb-3.caja_flotante_azul
                 p Sumar el coste de todos los productos vendidos durante un periodo determinado y dividirlos por el promedio que estuvo disponible esa mercancía durante el mismo periodo de tiempo. Está definida por la siguiente fórmula matemática: 
-                .col-lg-8.offset-lg-2
+                .col-lg-12
                   figure
                     img(src="@/assets/curso/temas/Tema4/10.svg" alt="alt")
       .col-lg-6
@@ -210,7 +210,7 @@
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/Tema4/11.jpg')})`}")
           .bloque-texto-g__texto.p-4
-            p.mb-0 Por ejemplo, si planeo que el equipo consumiera 5 vatios de potencia y en las mediciones resultó un valor de 5,5 vatios, se hace necesario implementar un plan de mejora para ajustar esos valores . 
+            p.mb-0 Por ejemplo, si planeo que el equipo consumiera 5 vatios de potencia y en las mediciones resultó un valor de 5,5 vatios, se hace necesario implementar un plan de mejora para ajustar esos valores. 
             br
             br
             br

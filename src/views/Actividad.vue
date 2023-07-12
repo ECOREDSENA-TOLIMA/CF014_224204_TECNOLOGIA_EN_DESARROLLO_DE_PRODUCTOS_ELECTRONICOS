@@ -15,7 +15,7 @@
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Actividad didáctica Cuestionario
+              p.fw-bold.mb-0 Cuestionario
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/AD1/actividad.html')" target="_blank")
                 span Realizar
@@ -33,7 +33,7 @@
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Actividad didactica Relacionar Terminos
+              p.fw-bold.mb-0 Relacionar Términos
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/AD2/actividad.html')" target="_blank")
                 span Realizar
