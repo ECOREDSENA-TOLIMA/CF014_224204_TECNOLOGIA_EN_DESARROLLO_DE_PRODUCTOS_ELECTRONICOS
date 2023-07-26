@@ -222,7 +222,7 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Fliutronic. (s.f.). Leyes de Kirchhoff',
+      referencia: '“Khan Academy”, “Las leyes de Kirchhoff”',
       link:
         'https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws',
     },
