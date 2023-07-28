@@ -222,11 +222,6 @@ export default {
   ],
   referencias: [
     {
-      referencia: '“Khan Academy”, “Las leyes de Kirchhoff”',
-      link:
-        'https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws',
-    },
-    {
       referencia:
         'ICONTEC. (2003). NTC-ISO 10012. Sistema de gestión de la medición. ICONTEC.',
       link:
@@ -246,6 +241,11 @@ export default {
       referencia:
         'ISO. (s.f.). International Organization for Standardization.',
       link: 'http://www.iso.org/',
+    },
+    {
+      referencia: 'Khan Academy. (s.f). Las leyes de Kirchhoff',
+      link:
+        'https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws',
     },
     {
       referencia:
